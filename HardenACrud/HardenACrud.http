@@ -1,0 +1,6 @@
+@HardenACrud_HostAddress = http://localhost:5200
+
+GET {{HardenACrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

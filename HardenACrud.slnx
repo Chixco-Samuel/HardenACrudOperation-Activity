@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Docs/">
+    <File Path="LAB.md" />
+    <File Path="ReadME.md" />
+  </Folder>
+  <Project Path="HardenACrud/HardenACrud.csproj" />
+</Solution>
